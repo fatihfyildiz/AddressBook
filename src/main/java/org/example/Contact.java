@@ -13,6 +13,7 @@ public class Contact {
     }
 
     public void changeNumber(String newNumber){
+
         this.number = newNumber;
     }
 
